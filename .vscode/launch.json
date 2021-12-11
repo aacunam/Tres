@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Reto2WebApplication<Reto2_Web>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "Reto2_Web.Reto2WebApplication",
+            "projectName": "Reto2_Web",
+            "args": ""
+        }
+    ]
+}
