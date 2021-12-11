@@ -21,7 +21,7 @@ public class UserRepositorio {
     private InterfaceUser userCrudRepository;
      
        public List<User> getAll() {
-        return (List<User>) userCrudRepository.findAll();
+        return  userCrudRepository.findAll();
     }
 
     public Optional<User> getUser(int id) {
